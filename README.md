@@ -1,9 +1,10 @@
 # git-templates
-#### Templates for Issues and Pull requests for github 
+#### Templates for Issues and Pull requests for GitHub 
 
 ---
 
-To use this all you have to do is have the two folders under `.github` in the `.github` folder in whatever project you are working on!
+To use this all you have to do is have the two folders under `Templates` in the `.github` folder in whatever project you are working on!  
+**_NOTE:_** Do not change the name of the folders otherwise it won't work.
 
 ---
 
